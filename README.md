@@ -124,4 +124,3 @@ echo "Use username: $SAMBA_USER and the password you just set."
 
 This script and instructions incorporate all verified working steps to automate your NAS setup smoothly and reliably. Adjust usernames, UUID, or permissions as per your requirements.
 
-Let me know if more customization or troubleshooting help is needed!
