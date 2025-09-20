@@ -1,7 +1,3 @@
-Here is an automated bash script and step-by-step instructions to set up your Raspberry Pi as a NAS with your NTFS external hard drive and Samba share, ensuring access from Linux, Windows, and Android on your LAN.
-
-***
-
 ## Automated Setup Script: `setup_rpi_nas.sh`
 
 ```bash
